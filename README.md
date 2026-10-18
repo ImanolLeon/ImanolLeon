@@ -14,7 +14,7 @@
 - :atom_symbol: I create modern frontends with `React` and `Next.js`.
 - :robot: I design and build automation workflows with `n8n`.
 - :bar_chart: I develop custom `CRM` solutions tailored to business needs.
-- :boom: You can visit [MY WEBSITE]([https://tu-sitio-web](https://imanol.uk/)).
+- :boom: You can visit [My portfolio](https://imanol.uk/).
 <br>
 
 
